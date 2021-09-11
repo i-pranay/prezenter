@@ -1,2 +1,4 @@
 # prezenter
-console based slideshow 
+Console based slideshow 
+
+To Run run node p.js
